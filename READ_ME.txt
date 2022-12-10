@@ -14,8 +14,9 @@
 
 (Running the application)
 
-3)Once the network is set up, open up the terminal within the project folder and type 'npm run start'
-3.1) Script should start and localhost:3000 should start and open up browser with the application ready to use.
+3) Use the 'npm install' command in the VSCode terminal to install modules
+3.1) Once the network is set up, open up the terminal within the project folder and type 'npm run start'
+3.2) Script should start and localhost:3000 should start and open up browser with the application ready to use.
 
 (Usage)
 
