@@ -15,15 +15,15 @@
 
 (Running the application)
 
-1)Once the network is set up, open up the terminal within the project folder and type 'npm run start'
+1) Once the network is set up, open up the terminal within the project folder and type 'npm run start'
 2) Script should start and localhost:3000 should start and open up browser with the application ready to use.
 
 (Usage)
 
-1)Connect Wallet by choosing the appropriate imported Ganache account on the custom network
-2)Set up password
-3)Login
-4)Upload file(s)
-5)Confirm transaction
-6)Download/Delete file(s)
-7)Logout
+1) Connect Wallet by choosing the appropriate imported Ganache account on the custom network
+2) Set up password
+3) Login
+4) Upload file(s)
+5) Confirm transaction
+6) Download/Delete file(s)
+7) Logout
