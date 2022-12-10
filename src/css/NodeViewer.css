@@ -1,0 +1,219 @@
+.topbar-background-section {
+  position: absolute;
+  width: 1288px;
+  height: 143px;
+  left: -8px;
+  top: -9px;
+  
+  background: rgba(10, 10, 0, 0.93);
+  border: 3px solid #A8BBB0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .homefilesbutton {
+    position: absolute;
+    top: 52px;
+    left: 212px;
+  }
+  .tabButtonN {
+    position: relative;
+    left: 20%;
+    top: 2.5em;
+    height: 3em;
+    width: 13em;
+    outline: none;
+  margin: 1rem;
+  border: 1px solid red;
+  border-radius: 5px;
+  background-color: #e7e7e700; 
+  color: red;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  }
+  .nodeViewerGIF{
+    width: 1000px;
+    height: 400px;
+    margin-left: 245px;
+    margin-top: 165px;
+  }
+  .tabButtonN:hover{
+    border-color: #e7e7e7;
+    background-color: #e7e7e7; 
+    color: black;
+    }
+
+  .homenodeviewerbutton,
+  .homeverisonhistorybutton {
+    position: absolute;
+    top: 52px;
+    left: 516px;
+  }
+  .homenodeviewerbutton {
+    left: 319px;
+  }
+  .sidebar-background-section {
+    /* SideBar_Background */
+    position: absolute;
+    width: 290px;
+    height: 151px;
+    left: 1015px;
+    top: -20px;
+
+    background: #606060;
+    border: 3px solid #A8BBB0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 24px;
+  }
+  .name-span {
+    font-weight: 600;
+    font-family: var(--font-inter);
+  }
+  .name-hamza-al-zoubi {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .expiration-date-span {
+    font-weight: 600;
+  }
+  .span {
+    font-family: var(--font-inter);
+  }
+  .mainpageaccdetails {
+ /* MainPageAccDetails */
+ position: absolute;
+ width: 231px;
+ height: 91px;
+ left: 1044px;
+ top: 12px;
+
+ font-family: 'Inter';
+ font-style: normal;
+ font-weight: 600;
+ font-size: 16px;
+ line-height: 25px;
+
+ color: #FFFFFF;
+  }
+  .blockcore-2-icon {
+    position: absolute;
+    top: 17px;
+    left: 59px;
+    width: 103px;
+    height: 100px;
+    object-fit: cover;
+  }
+  .homemanageaccbutton {
+    position: absolute;
+    top: 52px;
+    left: 756px;
+  }
+  .draganddrop-background-section,
+  .sidebar-background-section1 {
+   /* SideBar_Background-Left-Side */
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 250px;
+  height: 613px;
+  left: -26px;
+  top: 134px;
+
+  background: rgba(10, 10, 0, 0.93);
+  border: 3px solid #A8BBB0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 28px;
+  }
+  .draganddrop-background-section {
+   /* DragAndDrop_Background */
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 204px;
+  height: 429px;
+  left: 9px;
+  top: 226px;
+
+  background: rgba(255, 255, 255, 0.36);
+  border: 3px solid #A8BBB0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 28px;
+  }
+  .node-viewer-coming-soon,
+  .text-signout-button {
+    position: absolute;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .text-signout-button {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 697px;
+    left: 77px;
+    font-size: var(--font-size-lg);
+    font-family: var(--font-inter);
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 68px;
+    height: 12px;
+  }
+  .node-viewer-coming-soon {
+    top: 407px;
+    left: 570px;
+    font-size: var(--font-size-xl);
+    line-height: 24px;
+    font-family: var(--font-roboto);
+    color: black;
+    width: 331px;
+    height: 53px;
+  }
+  .node-viewer-div {
+    position: relative;
+    background-color: #EBE8E0;
+    width: 1280px;
+    height: 720px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-lg);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  .upload-a-file {
+    top: 169px;
+    left: 65px;
+    line-height: 24px;
+    font-family: var(--font-roboto);
+    color: white;
+    text-align: center;
+    display: inline-block;
+    width: 100px;
+    height: 22px;
+  }
+  .inputTag{
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 37em;
+    left: 1.25em;
+    width: 150px;
+    height: 28px;
+    outline: none;
+  margin: 1rem;
+  border: 1px solid #e7e7e7;
+  border-radius: 5px;
+  background-color: #e7e7e700; 
+  color: white;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  padding-top: 0.21em;
+  text-align:center;
+   }
+   .fileuploadfeature-input{
+    display: none;
+   }

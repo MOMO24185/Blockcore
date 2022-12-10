@@ -1,0 +1,140 @@
+.blockcore-logo-icon,
+.image-background-icon {
+  position: absolute;
+  object-fit: cover;
+}
+
+
+.image-background-icon {
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 720px;
+}
+.blockcore-logo-icon {
+  top: 53px;
+  left: 490px;
+  width: 300px;
+  height: 301px;
+}
+
+
+input:hover {
+  background-color: rgba(255, 255, 255, 0.256);
+  
+}
+
+input:focus, textarea:focus, select:focus{
+  outline: none;
+}
+
+.input-passwordlogin {
+  color: white;
+  font-size: 10px;
+  background-color: rgba(255, 255, 255, 0.193);
+  padding: 8px 11px 8px 16px;
+  gap: 10px;
+  border: 1px solid #FF0000;
+  border-radius: 6px;
+  transition-duration: 0.4s;
+}
+
+
+.input-passwordlogin2 {
+  color: white;
+  font-size: 10px;
+  background-color: rgba(255, 255, 255, 0.193);
+  padding: 8px 11px 8px 16px;
+  gap: 10px;
+  border: 1px solid #FF0000;
+  border-radius: 6px;
+  margin-top: 0.6em;
+  transition-duration: 0.4s;
+}
+
+.login-page-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+
+.ulSignup {
+  list-style-type: none;
+  position: relative;
+  left: 7%;
+}
+
+
+.formSignup{
+  color: white;
+  list-style-type: none;
+  
+  position: absolute;
+  top: 22em;
+  left: 30em;
+  align-content: auto;
+
+}
+
+.buttonS{
+  position: relative;
+  left: 12.5%;
+  height: 2em;
+  width: 10em;
+margin: 1rem;
+border: 1px solid #e7e7e7;
+border-radius: 5px;
+background-color: #e7e7e700; 
+color: white;
+transition-duration: 0.4s;
+cursor: pointer;
+}
+
+.buttonS:hover{
+background-color: #e7e7e7; 
+color: black;
+}
+
+.buttonS span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.buttonS span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -5px;
+  transition: 0.5s;
+}
+
+.buttonS:hover span {
+  padding-right: 15px;
+}
+
+.buttonS:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.buttonS:disabled{
+  opacity: 30%;
+  cursor:default;
+}
+
+.passText{
+  position: relative;
+  font-size: smaller;
+  left: -15.8em;
+  bottom: 1em;
+}

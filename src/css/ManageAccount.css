@@ -1,0 +1,227 @@
+.topbar-background-section2 {
+     /* TopBar_Background */
+  position: absolute;
+  width: 1288px;
+  height: 143px;
+  left: -8px;
+  top: -9px;
+
+  background: rgba(10, 10, 0, 0.93);
+  border: 3px solid #A8BBB0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .homefilesbutton3 {
+    position: absolute;
+    top: 52px;
+    left: 212px;
+
+  } 
+   .tabButtonA {
+    position: relative;
+    left: 20%;
+    top: 2.5em;
+    height: 3em;
+    width: 13em;
+    outline: none;
+  margin: 1rem;
+  border: 1px solid red;
+  border-radius: 5px;
+  background-color: #e7e7e700; 
+  color: red;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  }
+
+  .tabButtonA:hover{
+    border-color: #e7e7e7;
+    background-color: #e7e7e7; 
+    color: black;
+    }
+
+  .homenodeviewerbutton3,
+  .homeverisonhistorybutton3 {
+    position: absolute;
+    top: 52px;
+    left: 516px;
+  }
+  .homenodeviewerbutton3 {
+    left: 319px;
+  }
+  .sidebar-background-section4 {
+    /* SideBar_Background */
+    position: absolute;
+    width: 290px;
+    height: 151px;
+    left: 1015px;
+    top: -20px;
+
+    background: #606060;
+    border: 3px solid #A8BBB0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 24px;
+  }
+  .name-span3 {
+    font-weight: 600;
+    font-family: var(--font-inter);
+  }
+  .name-hamza-al-zoubi3 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .expiration-date-span3 {
+    font-weight: 600;
+  }
+
+  .mainpageaccdetails4 {
+   /* MainPageAccDetails */
+  position: absolute;
+  width: 231px;
+  height: 91px;
+  left: 1044px;
+  top: 12px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+
+  color: #FFFFFF;
+  }
+  .blockcore-1-icon1 {
+    position: absolute;
+    top: 17px;
+    left: 59px;
+    width: 103px;
+    height: 100px;
+    object-fit: cover;
+  }
+  .homemanageaccbutton3 {
+    position: absolute;
+    top: 52px;
+    left: 756px;
+  }
+  .draganddrop-background-section2,
+  .sidebar-background-section5 {
+    /* SideBar_Background-Left-Side */
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 250px;
+  height: 613px;
+  left: -26px;
+  top: 134px;
+
+  background: rgba(10, 10, 0, 0.93);
+  border: 3px solid #A8BBB0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 28px;
+  }
+  .draganddrop-background-section2 {
+    /* DragAndDrop_Background */
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 204px;
+  height: 429px;
+  left: 9px;
+  top: 226px;
+
+  background: rgba(255, 255, 255, 0.36);
+  border: 3px solid #A8BBB0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 28px;
+  }
+ 
+  
+  .frame-icon {
+    position: absolute;
+    width: 129px;
+    height: 119px;
+    left: 600px;
+    top: 50px;
+  }
+  .storage-4gb500gb-p1 {
+    margin: 0;
+  }
+  .text-signout-button3 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 645px;
+    left: 695px;
+    font-size: var(--font-size-lg);
+    font-family: var(--font-inter);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 68px;
+    height: 12px;
+  }
+  .name-hamza-al-zoubi-storage {
+    /* Name: Hamza Al Zoubi Storage: 4GB/500GB */
+    position: absolute;
+    width: 500px;
+    height: 56px;
+    left: 412px;
+    top: 170px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 144.02%;
+    /* or 29px */
+
+    text-align: center;
+
+    color: #000000;
+  }
+  .manage-account-div {
+    position: relative;
+    background-color: #EBE8E0;
+    width: 1280px;
+    height: 720px;
+    overflow: hidden;
+    text-align: left;
+  }
+  .text-signout-button3:hover {
+    color: red;
+  }
+  .upload-a-file {
+    top: 169px;
+    left: 65px;
+    line-height: 24px;
+    font-family: var(--font-roboto);
+    color: white;
+    text-align: center;
+    display: inline-block;
+    width: 100px;
+    height: 22px;
+  }
+  .inputTag{
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 37em;
+    left: 1.25em;
+    width: 150px;
+    height: 28px;
+    outline: none;
+  margin: 1rem;
+  border: 1px solid #e7e7e7;
+  border-radius: 5px;
+  background-color: #e7e7e700; 
+  color: white;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  padding-top: 0.21em;
+  text-align:center;
+   }
+   .fileuploadfeature-input{
+    display: none;
+   }

@@ -1,0 +1,185 @@
+.topbar-background-section1 {
+  position: absolute;
+  width: 1288px;
+  height: 143px;
+  left: -8px;
+  top: -9px;
+  
+  background: rgba(10, 10, 0, 0.93);
+  border: 3px solid #A8BBB0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .homefilesbutton1 {
+    position: absolute;
+    top: 52px;
+    left: 212px;
+  }
+
+  .button1 {
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.5s;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    left: 250px;
+    top: 35px;
+    margin-right: 30px;
+  }
+  .button2 {
+    background-color: transparent; 
+    color: rgb(255, 255, 255); 
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+  }
+  .button2:hover {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+  }
+  
+  .homenodeviewerbutton1,
+  .homeverisonhistorybutton1 {
+    position: absolute;
+    top: 52px;
+    left: 516px;
+  }
+  .homenodeviewerbutton1 {
+    left: 319px;
+  }
+  .sidebar-background-section2 {
+    /* SideBar_Background */
+    position: absolute;
+    width: 290px;
+    height: 151px;
+    left: 1015px;
+    top: -20px;
+
+    background: #606060;
+    border: 3px solid #A8BBB0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 24px;
+  }
+  .name-span1 {
+    font-weight: 600;
+    font-family: var(--font-inter);
+  }
+  .name-hamza-al-zoubi1 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .expiration-date-span1 {
+    font-weight: 600;
+  }
+  .span1 {
+    font-family: var(--font-inter);
+  }
+  .mainpageaccdetails4 {
+       /* MainPageAccDetails */
+  position: absolute;
+  width: 231px;
+  height: 91px;
+  left: 1044px;
+  top: 12px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 25px;
+
+  color: #FFFFFF;
+  }
+  .blockcore-2-icon1 {
+    position: absolute;
+    top: 17px;
+    left: 59px;
+    width: 103px;
+    height: 100px;
+    object-fit: cover;
+  }
+  .homemanageaccbutton1 {
+    position: absolute;
+    top: 52px;
+    left: 756px;
+  }
+  .draganddrop-background-section1,
+  .sidebar-background-section3 {
+     /* SideBar_Background-Left-Side */
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 250px;
+    height: 613px;
+    left: -26px;
+    top: 134px;
+
+    background: rgba(10, 10, 0, 0.93);
+    border: 3px solid #A8BBB0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 28px;
+  }
+  .draganddrop-background-section1 {
+    /* DragAndDrop_Background */
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 204px;
+    height: 429px;
+    left: 9px;
+    top: 226px;
+
+    background: rgba(255, 255, 255, 0.36);
+    border: 3px solid #A8BBB0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 28px;
+  }
+  .text-signout-button1,
+  .verison-history-coming-soon {
+    position: absolute;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .text-signout-button1 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 697px;
+    left: 77px;
+    font-size: var(--font-size-lg);
+    font-family: var(--font-inter);
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 68px;
+    height: 12px;
+  }
+  .verison-history-coming-soon {
+    top: 407px;
+    left: 570px;
+    font-size: var(--font-size-xl);
+    line-height: 24px;
+    font-family: var(--font-roboto);
+    color: black;
+    width: 331px;
+    height: 53px;
+  }
+  .version-history {
+    position: relative;
+    background-color: #EBE8E0;
+    width: 1280px;
+    height: 720px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-lg);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  
